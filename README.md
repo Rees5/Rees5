@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rees5
 - 👀 I’m interested in backend dvelopment
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m a recent Computer Science Graduate
 - 💞️ I’m looking to collaborate on PHP projects
 - 📫 How to reach me: https://wa.link/h03lc7
 
